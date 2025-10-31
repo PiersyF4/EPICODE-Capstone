@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Hazard
+  - Ground
+  - Devourer
+  - Fall
+  - End
+  - ExitGame
+  - MenuCanvas
+  - OptionCanvas
+  - BackCanvas
   layers:
   - Default
   - TransparentFX
@@ -11,9 +20,9 @@ TagManager:
   - Decor
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Wall
+  - Spikes
+  - Ground
   - 
   - 
   - 
